@@ -1,0 +1,22 @@
+{
+  "base_price": 3750,
+  "beamstation_catalog_url": "https://beamstation.com/datasets",
+  "beamstation_origin": "https://beamstation.com",
+  "category_group_name": "Restaurants",
+  "config_category": "census",
+  "config_description": "Restaurant market intelligence for the Waterbury-Shelton (Metro), Connecticut metro, including Waterbury and Shelton. Captures the competitive landscape across city boundaries within a growing metropolitan dining market. Filtered by the Restaurants category group with business profiles, ratings, reviews, and competitive metrics. Refreshed weekly.",
+  "config_name": "All Restaurants in Waterbury-Shelton (Metro), Connecticut, US",
+  "export_job_id": "53ff0403-403d-4425-912c-1258cda816aa",
+  "github_org": "Beamstation-Datasets",
+  "id_short": 212095,
+  "location_name": "Waterbury-Shelton, CT",
+  "location_type": "metro",
+  "repo_name": "all-restaurants-in-waterbury-shelton-metro-connecticut-us-sample-212095",
+  "sample_b2_path": "b2-export:BeamStation-ExportFiles/212095/beamstation_212095_restaurants-us-waterburysheltonct_SAMPLE_DIST.csv",
+  "sample_pct": 2.99,
+  "sample_records": 25,
+  "sample_sha256": "a3336bd098f51240c3f0a418ed8a4f93d3879df050cd2fe22c17a394be2eb862",
+  "sample_size_bytes": 116198,
+  "total_records": 836,
+  "updated_at": "2026-03-31T16:24:58.615806+00:00"
+}
