@@ -1,12 +1,12 @@
 {
-  "export_job_id": "53ff0403-403d-4425-912c-1258cda816aa",
+  "export_job_id": "96898246-8372-44c5-9a75-d0b9e7b1b976",
   "id_short": 212095,
-  "published_at": "2026-04-11T07:07:47Z",
+  "published_at": "2026-04-17T19:12:13Z",
   "repo_name": "all-restaurants-in-waterbury-shelton-metro-connecticut-us-sample-212095",
   "sample_asset_name": "beamstation_212095_restaurants-us-waterburysheltonct_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/212095/beamstation_212095_restaurants-us-waterburysheltonct_SAMPLE_DIST.csv",
-  "sample_records": 25,
-  "sample_sha256": "a3336bd098f51240c3f0a418ed8a4f93d3879df050cd2fe22c17a394be2eb862",
-  "sample_size_bytes": 116198,
-  "total_records": 836
+  "sample_records": 119,
+  "sample_sha256": "ee3bb6b7b49b738bc01db095b921ac6d5ca1270b0cef9cdaaad5bfa2fed3a77d",
+  "sample_size_bytes": 428083,
+  "total_records": 1196
 }
